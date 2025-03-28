@@ -78,7 +78,7 @@ The application integrates with the following API endpoints:
 
 // Running the project
 
-<!-- step 1 extract the zip file: then -->
+<!-- step 1 extract the zip file: then 
 <!-- to run the project type : npm run dev 
 
 // type password as given in assessment file
