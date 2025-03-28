@@ -75,3 +75,20 @@ The application integrates with the following API endpoints:
 - `GET /api/users` - Fetch users list
 - `PUT /api/users/:id` - Update user details
 - `DELETE /api/users/:id` - Delete user
+
+// Running the project
+
+<!-- step 1 extract the zip file: then -->
+<!-- to run the project type : npm run dev 
+
+// type password as given in assessment file
+<!-- email: eve.holt@reqres.in
+password: cityslicka 
+
+<!-- step 2 : if not running:
+extract the zip file 
+type: npm i on terminal
+type: npm run dev -->
+
+<!-- email: eve.holt@reqres.in
+password: cityslicka ->
